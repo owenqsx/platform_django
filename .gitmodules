@@ -1,0 +1,6 @@
+[submodule "django_base"]
+	path = django_base
+	url = https://github.com/easecloud/django_base
+[submodule "django-dbdoc"]
+	path = django-dbdoc
+	url = https://github.com/easecloud/django-dbdoc

@@ -1,0 +1,16 @@
+Django==2.0.5
+pytz==2019.1
+sqlparse==0.3.0
+django-cors-headers
+django-rest-swagger
+djangorestframework
+djangorestframework-filters
+djangorestframework-queryfields
+djangorestframework-yaml
+django-cron
+django-filter==1.1.0
+django-fullclean
+django-cleanup
+mysqlclient
+pillow
+pycrypto
